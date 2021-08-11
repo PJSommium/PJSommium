@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PJSommium
+- 👋 Hi, I’m @PJSommium, Park Jong Seung(korean name)
 - 👀 I’m interested in ... Quant Analytics/ Masters in Financial Engineering
 - 🌱 I’m currently learning ... Economics(Studying for Bachelor degree), Mathematics(minor) and Python 
 - 💞️ I’m looking to collaborate on ...
